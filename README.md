@@ -32,17 +32,17 @@ Este debe estar conectado mediante un cable de transferencia de datos a la máqu
 
 En el IDE, en este caso Visual Studio Code, se debe seleccionar el dispositivo donde se va a ejecutar, esto se selecciona desde la parte inferior derecha en la barra de estado:
 
-![seleccion_dispositivo](imgs\image.png) → ![dispositivo_movil](imgs\image2.png)
+![seleccion_dispositivo](imgs/image.png) → ![dispositivo_movil](imgs/image2.png)
 
 ### Emulador 🤖
 
 Como alternativa se puede usar un Emulador **(NO RECOMENDADO)**, se debe tener en cuenta que esto puede poner la máquina lenta, puesto que los emuladores móviles consumen muchos recursos físicos.
 Pero se puede hacer así:
 
-![emulador](imgs\image4.png)
+![emulador](imgs/image4.png)
 
 ### Navegador web💻
 
 Otra alternativa es desde el navegador, que deber ser un navegador basado en Chromium como **Chrome** o **Edge**
 
-![navegadores](imgs\image3.png)
+![navegadores](imgs/image3.png)
